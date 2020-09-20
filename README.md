@@ -1,7 +1,7 @@
 # OpensourceSWPython
 
-Open SW Python 과목을 위한 레포지토리 입니다.
-
+Open SW Python 과목을 위한 레포지토리 입니다.   
+  
 필요한 라이브러리 종속성 ( bangtal ) 을 설치 후 실행하시면 됩니다.
 
 실행 방법은 다음과 같습니다.
